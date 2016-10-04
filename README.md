@@ -1,2 +1,2 @@
 # git-pactice-repo
-Would you like to play a game?
+How about a nice game of chess?
